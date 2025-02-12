@@ -57,9 +57,6 @@ Contribuições são bem-vindas! Para contribuir:
 4. Push para a branch (`git push origin feature/AmazingFeature`)
 5. Abra um Pull Request
 
-## Licença
-Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ## Contato
 Seu Nome - seu.email@exemplo.com
 Link do projeto: https://github.com/seu-usuario/geopy-calculator
